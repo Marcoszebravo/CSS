@@ -1,0 +1,26 @@
+header {
+    color: darkred;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.games{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: darkred;
+    margin-top: 50px;
+}
